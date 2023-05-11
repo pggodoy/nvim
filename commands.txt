@@ -1,0 +1,8 @@
+sudo apt-get install ripgrep
+sudo apt install zip
+sudo apt install npm
+
+:TSInstall all
+
+:LspInstall
+:PackerSync
